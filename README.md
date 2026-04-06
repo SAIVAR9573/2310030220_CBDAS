@@ -68,4 +68,7 @@ Example commands:
 ls
 pwd
 whoami
+### 🎥 Project Demo Video
+[![Watch the demo](https://img.youtube.com/vi/yGS-07uIB_M/0.jpg)](https://youtu.be/yGS-07uIB_M)
+
 
